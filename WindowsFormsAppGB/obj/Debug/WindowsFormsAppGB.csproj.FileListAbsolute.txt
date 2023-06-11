@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\WindowsFormsAppGB\WindowsFormsAppGB\bin\Debug\WindowsFormsAppGB.exe.config
+C:\Users\lenovo\source\repos\WindowsFormsAppGB\WindowsFormsAppGB\bin\Debug\WindowsFormsAppGB.exe
+C:\Users\lenovo\source\repos\WindowsFormsAppGB\WindowsFormsAppGB\bin\Debug\WindowsFormsAppGB.pdb
+C:\Users\lenovo\source\repos\WindowsFormsAppGB\WindowsFormsAppGB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\WindowsFormsAppGB\WindowsFormsAppGB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\source\repos\WindowsFormsAppGB\WindowsFormsAppGB\obj\Debug\WindowsFormsAppGB.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\WindowsFormsAppGB\WindowsFormsAppGB\obj\Debug\WindowsFormsAppGB.Form1.resources
+C:\Users\lenovo\source\repos\WindowsFormsAppGB\WindowsFormsAppGB\obj\Debug\WindowsFormsAppGB.Properties.Resources.resources
+C:\Users\lenovo\source\repos\WindowsFormsAppGB\WindowsFormsAppGB\obj\Debug\WindowsFormsAppGB.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\WindowsFormsAppGB\WindowsFormsAppGB\obj\Debug\WindowsFormsAppGB.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WindowsFormsAppGB\WindowsFormsAppGB\obj\Debug\WindowsFormsAppGB.csproj.CopyComplete
+C:\Users\lenovo\source\repos\WindowsFormsAppGB\WindowsFormsAppGB\obj\Debug\WindowsFormsAppGB.exe
+C:\Users\lenovo\source\repos\WindowsFormsAppGB\WindowsFormsAppGB\obj\Debug\WindowsFormsAppGB.pdb
+C:\Users\lenovo\source\repos\WindowsFormsAppGB\WindowsFormsAppGB\obj\Debug\WindowsFormsAppGB.ReleveCompte.resources
+C:\Users\lenovo\source\repos\WindowsFormsAppGB\WindowsFormsAppGB\obj\Debug\WindowsFormsAppGB.Operation.resources
